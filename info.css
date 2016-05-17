@@ -1,0 +1,16 @@
+p {
+	background-color:  black;
+	color: white;
+
+}
+
+body {
+	background-color: red;
+}
+
+div#nav{
+  text-align: center;
+}
+div#nav ul{
+  display: inline-block;
+}
